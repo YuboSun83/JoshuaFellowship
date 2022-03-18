@@ -1,0 +1,13 @@
+/* .container .about{
+    background: #fff;
+
+} */
+
+.container .about p{
+    /* background-color: #fff; */
+    font-size: 2em;
+    line-height: 2em;
+    padding: 50px;
+    color: black;
+    /* opacity: 0; */
+}

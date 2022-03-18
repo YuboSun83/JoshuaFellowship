@@ -1,0 +1,19 @@
+.container .main{
+    height: 100%;
+}
+
+.container .photo{
+    background: #fff;
+}
+
+.container .photo img{
+    height: 260px;
+    display: inline-block;
+    padding: 20px;
+}
+
+.container .photo img:hover{
+    border: 1px solid chocolate;
+    /* box-sizing: border-box; */
+    height: 259px;
+}
